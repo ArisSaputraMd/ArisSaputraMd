@@ -8,17 +8,15 @@ Currently designing and implementing a segmented enterprise architecture to simu
 
 #### 🔭 Current Focus
 
-```
- - Designing segmented AWS VPC architecture
- - Deploying monitoring stack (Zabbix)
- - Implementing Wazuh SIEM
- - Simulating real-world attack scenarios
- - Building detection engineering capabilities
-```
+> Designing segmented AWS VPC architecture
+> Deploying monitoring stack (Zabbix)
+> Implementing Wazuh SIEM
+> Simulating real-world attack scenarios
+> Building detection engineering capabilities
 
 #### 📂 Featured Project
 
-- [cloud-security-operations-portfolio](/Users/arissaputra/Downloads/github-recovery-codes.txt) (In Progress)
+- [cloud-security-operations-portfolio](https://github.com/ArisSaputraMd/cloud-security-operations-portfolio) (In Progress)
 
 #### 🛠 Technical Skills
 
