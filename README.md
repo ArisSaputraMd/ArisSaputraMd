@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Muhammad Aris
 
-<!--
-**ArisSaputraMd/ArisSaputraMd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security+ & Network+ Certified
+Building an AWS-based NOC → SOC Integrated Lab Environment
 
-Here are some ideas to get you started:
+I focus on network monitoring, SIEM deployment, alert triage, and incident response.  
+Currently designing and implementing a segmented enterprise architecture to simulate real-world security operations, detection workflows, and threat investigation scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Current Focus
+
+```
+ - Designing segmented AWS VPC architecture
+ - Deploying monitoring stack (Zabbix)
+ - Implementing Wazuh SIEM
+ - Simulating real-world attack scenarios
+ - Building detection engineering capabilities
+```
+
+#### 📂 Featured Project
+
+- [cloud-security-operations-portfolio](/Users/arissaputra/Downloads/github-recovery-codes.txt) (In Progress)
+
+#### 🛠 Technical Skills
+
+- Networking:
+  TCP/IP, DNS, DHCP, Routing, Firewall Configuration
+
+- Security:
+  SIEM, Log Analysis, Incident Response, MITRE ATT&CK
+
+- Tools:
+  Wireshark, Wazuh (planned), ELK (planned), Git, Linux
+
+- Cloud (Planned):
+  AWS EC2, VPC, IAM
