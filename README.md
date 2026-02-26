@@ -8,11 +8,11 @@ Currently designing and implementing a segmented enterprise architecture to simu
 
 #### 🔭 Current Focus
 
-> Designing segmented AWS VPC architecture
-> Deploying monitoring stack (Zabbix)
-> Implementing Wazuh SIEM
-> Simulating real-world attack scenarios
-> Building detection engineering capabilities
+- `Designing segmented AWS VPC architecture`
+- `Deploying monitoring stack (Zabbix)`
+- `Implementing Wazuh SIEM`
+- `Simulating real-world attack scenarios`
+- `Building detection engineering capabilities`
 
 #### 📂 Featured Project
 
@@ -20,14 +20,16 @@ Currently designing and implementing a segmented enterprise architecture to simu
 
 #### 🛠 Technical Skills
 
-- Networking:
-  TCP/IP, DNS, DHCP, Routing, Firewall Configuration
+- Networking:  
+  `TCP/IP, DNS, DHCP, Routing, Firewall Configuration`
 
 - Security:
-  SIEM, Log Analysis, Incident Response, MITRE ATT&CK
+
+  `SIEM, Log Analysis, Incident Response, MITRE ATT&CK`
 
 - Tools:
-  Wireshark, Wazuh (planned), ELK (planned), Git, Linux
 
-- Cloud (Planned):
-  AWS EC2, VPC, IAM
+  `Wireshark, Wazuh (planned), ELK (planned), Git, Linux`
+
+- Cloud (Planned):  
+  `AWS EC2, VPC, IAM`
