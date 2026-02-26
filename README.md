@@ -23,12 +23,10 @@ Currently designing and implementing a segmented enterprise architecture to simu
 - Networking:  
   `TCP/IP, DNS, DHCP, Routing, Firewall Configuration`
 
-- Security:
-
+- Security:  
   `SIEM, Log Analysis, Incident Response, MITRE ATT&CK`
 
-- Tools:
-
+- Tools:  
   `Wireshark, Wazuh (planned), ELK (planned), Git, Linux`
 
 - Cloud (Planned):  
