@@ -16,7 +16,7 @@ Currently designing and implementing a segmented enterprise architecture to simu
 
 #### 📂 Featured Project
 
-- [cloud-security-operations-portfolio](https://github.com/ArisSaputraMd/cloud-security-operations-portfolio) (In Progress)
+- [Cloud SOC NOC Operations Portfolio](https://github.com/ArisSaputraMd/Cloud-SOC-NOC-Operations-Portfolio) (In Progress)
 
 #### 🛠 Technical Skills
 
