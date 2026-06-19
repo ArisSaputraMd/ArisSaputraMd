@@ -33,9 +33,9 @@ Skills
 Certifications
 
 
-- AWS Certified Solutions Architect – Associate (SAA-C03) | [Verify](https://cp.certmetrics.com/amazon/en/public/verify/credential/bb0b08a1d2ca47f69819803145d015ff)
-- CompTIA Network+ | [Verify](https://cp.certmetrics.com/comptia/en/public/verify/credential/a26e16f4e6c74261b0aa4b2e767d19ce)
-- CompTIA Security+ | [Verify](https://cp.certmetrics.com/comptia/en/public/verify/credential/2613a0f604464629aa98c0b66493a498)
+- AWS Certified Solutions Architect – Associate (SAA-C03) | [Verify](https://www.credly.com/users/muhammad-aris-saputra/badges/credly)
+- CompTIA Network+ | [Verify](https://www.credly.com/users/muhammad-aris-saputra/badges/credly)
+- CompTIA Security+ | [Verify](https://www.credly.com/users/muhammad-aris-saputra/badges/credly)
 
 ---
 
